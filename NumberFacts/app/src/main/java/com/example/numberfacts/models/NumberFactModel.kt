@@ -8,6 +8,6 @@ data class NumberFactModel(
 
     fun getFact(number: Int) {
         //TODO: request
-        activity.openInfoScreen()
+        activity.openInfoScreen(number, "Some fact (WIP)")
     }
 }

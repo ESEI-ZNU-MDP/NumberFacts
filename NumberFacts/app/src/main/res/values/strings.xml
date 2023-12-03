@@ -2,4 +2,5 @@
     <string name="app_name">NumberFacts</string>
     <string name="text_field_placeholder">Enter number</string>
     <string name="button_title">Get Fact</string>
+    <string name="clear_button_title">Clear main screen</string>
 </resources>
